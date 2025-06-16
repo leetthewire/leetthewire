@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working with video processing to make media creators work easily🤗<br>I'm currently learning real time graphic manipulations using DirectX 12 🤌<br><br>In the future will own a game company, I believe 🤞<br><br>About me 🙌<br>Linux enjoyer<br>Multithreading expert<br>Games lover<br>Information Security certified specialist<br><br>Ready to write anything from scratch 🙋
+<br>Information Security certified specialist<br>
 
 
 ## 🌐 Socials:
